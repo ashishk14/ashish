@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Kumar 👋🏻 👨🏻‍💻 
 
-<img src="https://raw.githubusercontent.com/ashishk14/ashish/master/github-header-bg.png.png" alt="Ashish K Banner">
+<img src="https://raw.githubusercontent.com/ashishk14/ashish/master/github-header-bg.png" alt="Ashish K Banner">
 
 I'm a software engineer who is passionate about building and scaling frontend of web applications. For the past 4 years, I’ve been working at <a href="https://zestmoney.in/">ZestMoney</a> to help them solve the affordability problem faced by millions of people in India using technology and AI. Currently, I’m leading a close-knit team of frontend engineering at ZestMoney who is responsible for developing elegant UI solutions for various B2C products and services. 
 
